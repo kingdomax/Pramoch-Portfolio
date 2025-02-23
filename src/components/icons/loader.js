@@ -1,29 +1,47 @@
 import React from 'react';
-
 const IconLoader = () => (
   <svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
     <title>Loader Logo</title>
     <g>
-      <g id="B" transform="translate(11.000000, 5.000000)">
+      <g id="PV" transform="translate(20, 33)">
+        {/* "P" with a smaller, natural curve */}
         <path
-          d="M45.691667,45.15 C48.591667,46.1 50.691667,48.95 50.691667,52.2 C50.691667,57.95 46.691667,61 40.291667,61 L28.541667,61 L28.541667,30.3 L39.291667,30.3 C45.691667,30.3 49.691667,33.15 49.691667,38.65 C49.691667,41.95 47.941667,44.35 45.691667,45.15 Z M33.591667,43.2 L39.241667,43.2 C42.791667,43.2 44.691667,41.85 44.691667,38.95 C44.691667,36.05 42.791667,34.8 39.241667,34.8 L33.591667,34.8 L33.591667,43.2 Z M33.591667,47.5 L33.591667,56.5 L40.191667,56.5 C43.691667,56.5 45.591667,54.75 45.591667,52 C45.591667,49.2 43.691667,47.5 40.191667,47.5 L33.591667,47.5 Z"
-          fill="currentColor"
+          d="M10 30 L10 5 L20 5 Q25 5, 25 12 Q25 20, 20 20 L10 20"
+          fill="none"
+          stroke="currentColor"
+          strokeWidth="4"
+          strokeLinecap="round"
+        />
+        {/* "V" with sharper edges */}
+        <path
+          d="M32 5 L42 30 L52 5"
+          fill="none"
+          stroke="currentColor"
+          strokeWidth="4"
+          strokeLinecap="round"
+          strokeLinejoin="round"
         />
       </g>
+      {/* Hexagon Border */}
       <path
         stroke="currentColor"
         strokeWidth="5"
         strokeLinecap="round"
         strokeLinejoin="round"
         d="M 50, 5
-                  L 11, 27
-                  L 11, 72
-                  L 50, 95
-                  L 89, 73
-                  L 89, 28 z"
+                      L 11, 27
+                      L 11, 72
+                      L 50, 95
+                      L 89, 73
+                      L 89, 28 z"
       />
     </g>
   </svg>
 );
 
 export default IconLoader;
+
+// Another SVG
+//<g id="B" transform="translate(26, 28) scale(0.8)">
+//  <path fill="currentColor" d="M0 45.26L0 9.47L13.50 9.47Q17.07 9.47 18.95 9.81Q21.58 10.25 23.36 11.49Q25.15 12.72 26.23 14.94Q27.32 17.16 27.32 19.82Q27.32 24.39 24.41 27.55Q21.51 30.71 13.92 30.71L4.74 30.71L4.74 45.26L0 45.26M4.74 26.49L13.99 26.49Q18.58 26.49 20.51 24.78Q22.44 23.07 22.44 19.97Q22.44 17.72 21.30 16.13Q20.17 14.53 18.31 14.01Q17.11 13.70 13.89 13.70L4.74 13.70L4.74 26.49ZM43.58 45.26L29.71 9.47L34.84 9.47L44.14 35.47Q45.26 38.60 46.02 41.33Q46.85 38.40 47.95 35.47L57.62 9.47L62.45 9.47L48.44 45.26L43.58 45.26Z"/>
+//</g>
