@@ -81,8 +81,8 @@ const StyledPic = styled.div`
     .img {
       position: relative;
       border-radius: var(--border-radius);
-      mix-blend-mode: multiply;
-      filter: grayscale(100%) contrast(1);
+      /*mix-blend-mode: multiply;
+      filter: grayscale(100%) contrast(1);*/
       transition: var(--transition);
     }
 
@@ -125,7 +125,18 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'TypeScript',
+    'React',
+    'Eleventy',
+    'Node.js',
+    'WordPress',
+    'Test1',
+    'Test2',
+    'Test3',
+    'Test4',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>

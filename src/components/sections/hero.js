@@ -71,7 +71,7 @@ const Hero = () => {
       <p>
         I’m a <span className="highlight">software engineer</span> specializing in{' '}
         <span className="highlight">XR development</span> and{' '}
-        <span className="highlight">full stack web development</span>. With 7 years of experience in
+        <span className="highlight">Full Stack Web development</span>. With 7 years of experience in
         software development, testing and system design. I've also led the engineer team for a year,
         bra bra bra......
       </p>
