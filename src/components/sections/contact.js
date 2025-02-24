@@ -61,7 +61,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I’m currently looking for new opportunities as XR software engineer.
+        I’m currently looking for new opportunities as a software engineer.
         <br />
         Whether you have a question or just want to say hi,
         <br />

@@ -1,6 +1,7 @@
 ---
 date: '2018-12-01'
 title: 'Software Engineer'
+titleLevel: 'IC2'
 company: 'Agoda'
 location: 'Bangkok, Thailand'
 range: 'Jun 2015 - Dec 2018'
