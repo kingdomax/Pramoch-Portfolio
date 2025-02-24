@@ -69,11 +69,10 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a <span className="highlight">software engineer</span> specializing in{' '}
-        <span className="highlight">XR development</span> and{' '}
-        <span className="highlight">Full Stack Web development</span>. With 7 years of experience in
-        software development, testing and system design. I've also led the engineer team for a year,
-        bra bra bra......
+        I’m a <span className="highlight">Software Engineer</span> specializing in{' '}
+        <span className="highlight">Extended Reality (VR,MR,AR)</span> and{' '}
+        <span className="highlight">Full Stack Web</span>. With 7 years of experience in software
+        development and 1 year leading the engineer team ................
       </p>
     </>
   );

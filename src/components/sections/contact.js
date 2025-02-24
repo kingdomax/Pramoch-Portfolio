@@ -37,7 +37,8 @@ const StyledContactSection = styled.section`
 
   .email-link {
     ${({ theme }) => theme.mixins.bigButton};
-    margin-top: 50px;
+    margin-top: 40px;
+    margin-right: 20px;
   }
 `;
 
@@ -60,12 +61,18 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        Although I’m not currently looking for any new opportunities, my inbox is always open.
-        Whether you have a question or just want to say hi, I’ll try my best to get back to you!
+        I’m currently looking for new opportunities as XR software engineer.
+        <br />
+        Whether you have a question or just want to say hi,
+        <br />
+        my inbox is always welcome :)
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>
         Say Hello
+      </a>
+      <a className="email-link" href="/resume.pdf">
+        View Resume
       </a>
     </StyledContactSection>
   );
