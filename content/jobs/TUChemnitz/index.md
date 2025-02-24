@@ -2,6 +2,7 @@
 date: '2014-08-01'
 title: 'Software Developer'
 company: 'Technische Universität Chemnitz'
+companyNameInTab: 'TU Chemnitz'
 location: 'Chemnitz, Germany'
 range: 'Jun 2014 - Aug 2014'
 url: 'https://www.tu-chemnitz.de/'

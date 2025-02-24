@@ -1,8 +1,8 @@
 ---
 date: '2021-09-01'
 title: 'Senior Software Engineer'
-titleLevel: 'IC3'
 company: 'Agoda'
+companyNameInTab: 'Agoda (IC3)'
 location: 'Bangkok, Thailand'
 range: 'Jan 2019 - Sep 2021'
 url: 'https://www.agoda.com/'

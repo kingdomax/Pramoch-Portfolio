@@ -2,6 +2,7 @@
 date: '2025-01-01'
 title: 'Independent XR Developer'
 company: 'Independent XR Developer'
+companyNameInTab: 'XR Developer'
 location: 'Leipzig, Germany'
 range: 'Jan 2022 - Present'
 url: ''
