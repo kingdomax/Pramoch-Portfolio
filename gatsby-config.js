@@ -1,3 +1,5 @@
+require('events').EventEmitter.defaultMaxListeners = 20;
+
 const config = require('./src/config');
 
 module.exports = {
