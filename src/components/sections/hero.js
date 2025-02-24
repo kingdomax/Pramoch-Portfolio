@@ -3,6 +3,7 @@ import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
 import { navDelay, loaderDelay } from '@utils';
 import { usePrefersReducedMotion } from '@hooks';
+import { email } from '@config';
 
 const StyledHeroSection = styled.section`
   ${({ theme }) => theme.mixins.flexCenter};
@@ -38,6 +39,9 @@ const StyledHeroSection = styled.section`
   p {
     margin: 20px 0 0;
     max-width: 540px;
+    .highlight {
+      color: var(--green);
+    }
   }
 
   .email-link {
@@ -65,23 +69,24 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        I’m a <span className="highlight">software engineer</span> specializing in{' '}
+        <span className="highlight">XR development</span> and{' '}
+        <span className="highlight">full stack web development</span>. With 7 years of experience in
+        software development, testing and system design. I've also led the engineer team for a year,
+        bra bra bra......
       </p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Check out my course!
+    //<a
+    //  className="email-link"
+    //  href="https://www.newline.co/courses/build-a-spotify-connected-app"
+    //  target="_blank"
+    //  rel="noreferrer">
+    //  Check out my course!
+    //</a>
+    <a className="email-link" href={`mailto:${email}`}>
+      Get In Touch
     </a>
   );
 
