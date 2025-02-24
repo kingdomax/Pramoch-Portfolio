@@ -1,6 +1,7 @@
 ---
 date: '3'
 title: 'Build a Spotify Connected App'
+type: 'Website / Virtual Reality Simulator / Multi-User VR Project'
 cover: './course-card.png'
 external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'

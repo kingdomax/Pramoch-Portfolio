@@ -256,13 +256,14 @@ const StyledProject = styled.li`
     a {
       width: 100%;
       height: 100%;
-      background-color: var(--green);
+      /*background-color: var(--green);*/
       border-radius: var(--border-radius);
       vertical-align: middle;
 
       &:hover,
       &:focus {
         background: transparent;
+        background-color: var(--green);
         outline: 0;
 
         &:before,
@@ -283,21 +284,21 @@ const StyledProject = styled.li`
         bottom: 0;
         z-index: 3;
         transition: var(--transition);
-        background-color: var(--navy);
-        mix-blend-mode: screen;
+        /*background-color: var(--navy);
+        mix-blend-mode: screen;*/
       }
     }
 
     .img {
       border-radius: var(--border-radius);
-      mix-blend-mode: multiply;
-      filter: grayscale(100%) contrast(1) brightness(90%);
+      /*mix-blend-mode: multiply;
+      filter: grayscale(100%) contrast(1) brightness(90%);*/
 
       @media (max-width: 768px) {
         object-fit: cover;
         width: auto;
         height: 100%;
-        filter: grayscale(100%) contrast(1) brightness(50%);
+        /*filter: grayscale(100%) contrast(1) brightness(50%);*/
       }
     }
   }
@@ -314,6 +315,7 @@ const Featured = () => {
           node {
             frontmatter {
               title
+              type
               cover {
                 childImageSharp {
                   gatsbyImageData(width: 700, placeholder: BLURRED, formats: [AUTO, WEBP, AVIF])
@@ -355,14 +357,14 @@ const Featured = () => {
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { external, title, tech, github, cover, cta } = frontmatter;
+            const { type, external, title, tech, github, cover, cta } = frontmatter;
             const image = getImage(cover);
 
             return (
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
                 <div className="project-content">
                   <div>
-                    <p className="project-overline">Featured Project</p>
+                    <p className="project-overline">{type}</p>
 
                     <h3 className="project-title">
                       <a href={external}>{title}</a>
