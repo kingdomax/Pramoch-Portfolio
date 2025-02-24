@@ -184,7 +184,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/ups-shot.jpg" // Netlify only support jpeg, png, svg
+              src="../../images/avatar.png" // Netlify only support png, svg
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
