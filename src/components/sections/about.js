@@ -187,7 +187,7 @@ const About = () => {
               src="../../images/avatar.png" // Netlify only support png, svg
               width={500}
               quality={95}
-              formats={['AUTO', 'WEBP', 'AVIF']}
+              formats={['PNG', 'WEBP']}
               alt="Headshot"
             />
           </div>
