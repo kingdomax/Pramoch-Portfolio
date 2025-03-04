@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Halcyon Theme'
-type: 'Mixed Reality Project'
+type: '★ Mixed Reality Project'
 cover: './halcyon.png'
 github: 'https://github.com/bchiang7/halcyon-site'
 external: 'https://halcyon-theme.netlify.com/'
