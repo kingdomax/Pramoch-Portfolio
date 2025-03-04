@@ -7,8 +7,8 @@ module.exports = {
     title: 'Pramoch Viriyathomrongul',
     description:
       'Pramoch Viriyathomrongul is a software engineer who specializes in XR development and Web development.',
-    siteUrl: 'https://www.linkedin.com/in/pramoch', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    siteUrl: 'https://pramoch.netlify.app', // No trailing slash allowed!
+    image: '/hero.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },
   plugins: [

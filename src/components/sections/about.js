@@ -184,10 +184,10 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/avatar.png" // Netlify only support png, svg
+              src="../../images/moch.jpg"
               width={500}
               quality={95}
-              formats={['PNG', 'WEBP']}
+              formats={['PNG', 'WEBP']} // Netlify only support png, svg, if use their automate CI,CD
               alt="Headshot"
             />
           </div>
