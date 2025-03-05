@@ -16,7 +16,10 @@ import {
   IconStar,
   IconTwitter,
   IconFacebook,
+  IconYouTube,
 } from '@components/icons';
+
+// Feather SVG Icon : https://feathericons.com/
 
 const Icon = ({ name }) => {
   switch (name) {
@@ -50,6 +53,8 @@ const Icon = ({ name }) => {
       return <IconTwitter />;
     case 'Facebook':
       return <IconFacebook />;
+    case 'YouTube':
+      return <IconYouTube />;
     default:
       return <IconExternal />;
   }

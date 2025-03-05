@@ -126,16 +126,14 @@ const About = () => {
   }, []);
 
   const skills = [
-    'JavaScript (ES6+)',
-    'TypeScript',
-    'React',
-    'Eleventy',
-    'Node.js',
-    'WordPress',
-    'Test1',
-    'Test2',
-    'Test3',
-    'Test4',
+    'C#',
+    'Unity',
+    'Unity Netcode',
+    'Photon Engine',
+    'Meta XR SDKs',
+    'XR Interaction Toolkit',
+    'JavaScript/TypeScript',
+    '.NET',
   ];
 
   return (
@@ -146,30 +144,30 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hey there! I’m Pramoch, a software engineer from Thailand who loves building things
+              that make users happy. My goal is to build software that helps people and makes their
+              day-to-day easier.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              I spent several years as a seasoned engineer at{' '}
+              <a href="https://agoda.com">a large tech company</a>, developing, testing, and
+              maintaining a web application that handled over 10 million requests a day. During that
+              time, I got to collaborate with some awesome folks from all over the world — frontend,{' '}
+              backend, mobile, data, UX/UI — you name it!
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
+              Fast forward to now, I’m pursuing my{' '}
+              <a href="https://www.uni-weimar.de/en/media/chairs/computer-science-department/vr">
+                master’s degree
               </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              in Computer Science in Germany, focusing on Extended Reality (XR). XR really excites
+              me because it brings me closer to the people who use my work, I love seeing their
+              reactions and getting direct feedback. My first dive into XR was back in 2014, when I
+              built a VR military training simulator for my bachelor thesis. Ever since then, I’ve
+              been eager to explore this tech even more, and I can’t wait to see where it takes me
+              next.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
