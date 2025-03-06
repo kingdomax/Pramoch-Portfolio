@@ -1,18 +1,21 @@
 ---
 date: '5'
-title: 'Agoda Website'
+title: 'Agoda Web Platform'
 type: 'Website'
-cover: './course-card.png'
+cover: './agoda.png'
 external: 'https://www.agoda.com/en-gb'
 cta: 'https://medium.com/agoda-engineering'
 tech:
-  - Elasticsearch
+  - C#
   - .NET Core
-  - React
   - TypeScript
+  - React
   - GraphQL
   - Grafana
   - Kibana
+  - Elasticsearch
 ---
 
-Unlike tutorials that only cover a few concepts and leave you with half-baked GitHub repositories, this course covers everything from explaining the principles of REST APIs to implementing Spotify's OAuth flow and fetching API data in a React app. By the end of the course, you’ll have an app deployed to the internet you can add to your portfolio.
+At Agoda, I worked on a large-scale web application serving over 10 million requests daily. I contributed significantly to the web application's evolution, leading projects such as integrating GraphQL APIs, adopting TypeScript, and shifting towards a microservices architecture.
+
+One of major achievements was a complete rebuild of the frontend using React, resulting in substantial latency reductions—server-side by around 250ms and client-side load times by nearly 6 seconds at the 90th percentile.

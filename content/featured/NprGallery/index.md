@@ -1,6 +1,6 @@
 ---
 date: '2'
-type: 'Social Virtual Reality Project'
+type: 'Social VR Project'
 title: 'NPR Gallery'
 cover: './demo.png'
 github: 'https://github.com/kingdomax/npr-gallery'

@@ -6,6 +6,7 @@ cover: './vr-bomb.jpg'
 youtube: 'https://www.youtube.com/watch?v=pr76RaMlCQM'
 github: 'https://github.com/kingdomax/vr-bomb'
 tech:
+  - Unity
   - Leap Motion SDK
   - Oculus Integration SDK
 ---
