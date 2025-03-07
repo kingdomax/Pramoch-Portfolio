@@ -1,18 +1,14 @@
 module.exports = {
-  email: 'pramoch.viriyathomrongul@gmail.com',
+  email: 'patboke.jit@gmail.com',
 
   socialMedia: [
     {
-      name: 'GitHub',
-      url: 'https://github.com/kingdomax',
-    },
-    {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/pramoch',
+      url: 'https://www.linkedin.com/in/patboke-jitthamma-97671bb3',
     },
     {
-      name: 'Facebook',
-      url: 'https://www.facebook.com/kingdomax',
+      name: 'GitHub',
+      url: 'https://github.com/pjitthamma',
     },
   ],
 

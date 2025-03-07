@@ -4,10 +4,10 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Pramoch Viriyathomrongul',
+    title: 'Patboke Jitthamma',
     description:
       'Pramoch Viriyathomrongul is a software engineer who specializes in XR development and Web development.',
-    siteUrl: 'https://pramoch.netlify.app', // No trailing slash allowed!
+    siteUrl: 'https://pjitthamma.netlify.app', // No trailing slash allowed!
     image: '/hero.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },
