@@ -2,9 +2,9 @@
 date: '2'
 type: 'Social VR Project'
 title: 'NPR Gallery'
-cover: './demo.png'
+cover: './cover.png'
 github: 'https://github.com/kingdomax/npr-gallery'
-external: 'https://spotify-profile.herokuapp.com/'
+external: 'https://www.behance.net/gallery/220854821/NPR-Gallery'
 tech:
   - XR Interaction Toolkit
   - Unity Shader Lab

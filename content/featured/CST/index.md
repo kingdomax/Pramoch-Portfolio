@@ -2,9 +2,9 @@
 date: '1'
 title: 'Co-Located See-Through Transition'
 type: '★ Mixed Reality Project'
-cover: './temp.jpg'
+cover: './cover.png'
 youtube: 'https://www.youtube.com/watch?v=cCpWLQWJRZw'
-external: 'https://halcyon-theme.netlify.com/'
+external: 'https://www.behance.net/gallery/220896523/Co-Located-See-Through-Transition'
 # github: 'https://github.com/kingdomax/collocated-see-through'
 tech:
   - Unity Netcode

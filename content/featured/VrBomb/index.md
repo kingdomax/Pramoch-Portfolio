@@ -2,9 +2,10 @@
 date: '4'
 title: 'VR Bomb (2014)'
 type: 'Virtual Reality Simulator'
-cover: './vr-bomb.jpg'
+cover: './cover.png'
 youtube: 'https://www.youtube.com/watch?v=pr76RaMlCQM'
 github: 'https://github.com/kingdomax/vr-bomb'
+external: 'https://www.behance.net/gallery/220835485/VR-Bomb'
 tech:
   - Unity
   - Leap Motion SDK

@@ -2,7 +2,7 @@
 date: '5'
 title: 'Agoda Web Platform'
 type: 'Website'
-cover: './agoda.png'
+cover: './cover.png'
 external: 'https://www.agoda.com/en-gb'
 cta: 'https://medium.com/agoda-engineering'
 ctaText: 'Engineering @ Agoda'

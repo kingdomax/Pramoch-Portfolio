@@ -2,8 +2,8 @@
 date: '3'
 title: 'Getting There Together'
 type: 'Multi-User VR Project'
-cover: './course-card.png'
-github: 'https://github.com/kingdomax/vr-bomb'
+cover: './cover.png'
+github: 'https://github.com/kingdomax/getting-there-together'
 tech:
   - C#
   - Unity
