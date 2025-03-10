@@ -18,4 +18,4 @@ tech:
 
 A multi-user onboarding system design to introduce new users to VR interactions in a shared MR environment. The system precisely aligns virtual objects with real-world physical spaces, maintaining consistent synchronization for all users.
 
-After completing interactive tutorials, users transition into a fully immersive VR scene through 1 of 3 MR-to-VR transition techniques reinforcing social presence and reducing disorientation. This project was featured in an IEEE conference publication and is available on [Meta Horizon Store](https://www.meta.com/s/2iO4ohtg7).
+After completing interactive tutorials, users transition into a fully immersive VR scene through 1 of 3 MR-to-VR transition techniques reinforcing social presence and reducing disorientation. This project was featured in an IEEE conference, CHI conference and is available on [Meta Horizon Store](https://www.meta.com/s/2iO4ohtg7).
