@@ -132,7 +132,7 @@ const About = () => {
     'Photon Engine',
     'Meta XR SDKs',
     'XR Interaction Toolkit',
-    'JavaScript/TypeScript',
+    'JavaScript',
     '.NET',
   ];
 
