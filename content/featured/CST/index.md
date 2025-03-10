@@ -3,7 +3,7 @@ date: '1'
 title: 'Co-Located See-Through Transition'
 type: '★ Mixed Reality Project'
 cover: './cover.png'
-youtube: 'https://www.youtube.com/watch?v=cCpWLQWJRZw'
+youtube: 'https://youtu.be/xUA0cI-iyPc'
 external: 'https://www.behance.net/gallery/220896523/Co-Located-See-Through-Transition'
 # github: 'https://github.com/kingdomax/collocated-see-through'
 tech:

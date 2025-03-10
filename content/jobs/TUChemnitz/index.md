@@ -1,6 +1,6 @@
 ---
 date: '2014-08-01'
-title: 'Software Developer'
+title: 'Software Developer Internship'
 company: 'Technische Universität Chemnitz'
 companyNameInTab: 'TU Chemnitz'
 location: 'Chemnitz, Germany'
