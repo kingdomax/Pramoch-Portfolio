@@ -2,7 +2,7 @@
 date: '2025-03-01'
 title: 'Independent XR Developer'
 company: 'Independent XR Developer'
-companyNameInTab: 'XR Developer'
+companyNameInTab: 'Career Break'
 location: 'Leipzig, Germany'
 range: 'March 2022 - March 2025'
 url: ''
