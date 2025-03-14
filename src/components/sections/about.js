@@ -127,7 +127,7 @@ const About = () => {
 
   const skills = [
     'C#',
-    'JavaScript',
+    'JavaScript/TypeScript',
     '.NET',
     'Unity',
     'Unity Netcode',
