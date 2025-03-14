@@ -127,13 +127,13 @@ const About = () => {
 
   const skills = [
     'C#',
+    'JavaScript',
+    '.NET',
     'Unity',
     'Unity Netcode',
     'Photon Engine',
     'Meta XR SDKs',
     'XR Interaction Toolkit',
-    'JavaScript',
-    '.NET',
   ];
 
   return (

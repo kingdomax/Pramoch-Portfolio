@@ -4,7 +4,7 @@ title: 'Independent XR Developer'
 company: 'Independent XR Developer'
 companyNameInTab: 'XR Developer'
 location: 'Leipzig, Germany'
-range: 'March 2022 - Present'
+range: 'March 2022 - March 2025'
 url: ''
 ---
 
