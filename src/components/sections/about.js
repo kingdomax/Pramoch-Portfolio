@@ -164,10 +164,10 @@ const About = () => {
               </a>{' '}
               in Computer Science in Germany, focusing on Extended Reality (XR). XR really excites
               me because it brings me closer to the people who use my work, I love seeing their
-              reactions and getting direct feedback. My first dive into XR was back in 2014, when I
-              built a VR military training simulator for my bachelor thesis. Ever since then, I’ve
-              been eager to explore this tech even more, and I can’t wait to see where it takes me
-              next.
+              reactions and getting direct feedback. Actually, my first dive into XR was way back in
+              2014, when I built a VR military training simulator for my bachelor thesis. Ever since
+              then, I’ve been fascinated to explore new tech even more, and I can’t wait to see
+              where it takes me next.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
