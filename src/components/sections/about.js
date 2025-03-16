@@ -129,6 +129,8 @@ const About = () => {
     'C#',
     'JavaScript/TypeScript',
     '.NET',
+    'React',
+    'SQL',
     'Unity',
     'Unity Netcode',
     'Photon Engine',

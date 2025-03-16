@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Co-Located See-Through Transition'
-type: '★ Mixed Reality Project ★'
+type: 'Mixed Reality Project'
 cover: './cover.png'
 youtube: 'https://youtu.be/xUA0cI-iyPc'
 external: 'https://www.behance.net/gallery/220896523/Co-Located-See-Through-Transition'
