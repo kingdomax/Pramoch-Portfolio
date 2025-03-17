@@ -1,11 +1,11 @@
 ---
 date: '2025-03-01'
 title: 'Independent XR Developer'
-company: 'Independent XR Developer'
-companyNameInTab: 'Career Break'
+company: 'Bauhaus-Universität Weimar'
+companyNameInTab: 'BU Weimar'
 location: 'Leipzig, Germany'
 range: 'March 2022 - March 2025'
-url: ''
+url: 'https://www.uni-weimar.de/en/media/chairs/computer-science-department/vr/'
 ---
 
 - Developed and evaluated a co-located mixed reality onboarding system that enables interactive see-through tutorials to improve VR interaction retention for novice users and seamless multi-user VR transitions from a shared physical space — featuring in an IEEE conference, CHI conference and an application available on Meta Horizon Store. Integrated technologies including Unity Netcode, Spatial Anchor API, Meta Mixed Reality Toolkit, Meta XR Interaction SDK, Meta XR Platform SDK.
