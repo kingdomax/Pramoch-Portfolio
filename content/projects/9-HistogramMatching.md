@@ -1,5 +1,5 @@
 ---
-date: '94'
+date: '91'
 title: 'Histogram Matching'
 github: 'https://github.com/kingdomax/histogram-matching'
 external: ''

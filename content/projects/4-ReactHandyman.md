@@ -1,5 +1,5 @@
 ---
-date: '93'
+date: '96'
 title: 'React Handyman'
 github: 'https://github.com/agoda-com/react-handyman'
 external: ''

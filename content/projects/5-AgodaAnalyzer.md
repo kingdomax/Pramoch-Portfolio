@@ -1,5 +1,5 @@
 ---
-date: '92'
+date: '95'
 title: 'Agoda Analyzer'
 github: 'https://github.com/agoda-com/AgodaAnalyzers'
 external: ''

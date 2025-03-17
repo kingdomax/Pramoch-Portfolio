@@ -1,5 +1,5 @@
 ---
-date: '96'
+date: '93'
 title: 'Toon Shading'
 github: 'https://github.com/kingdomax/toon-shading'
 external: ''

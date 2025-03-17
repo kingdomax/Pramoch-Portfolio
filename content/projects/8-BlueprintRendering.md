@@ -1,5 +1,5 @@
 ---
-date: '95'
+date: '92'
 title: 'Blueprint Rendering'
 github: 'https://github.com/kingdomax/blueprint-rendering'
 external: ''
