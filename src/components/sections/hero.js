@@ -69,7 +69,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        <span className="highlight">Software Engineer</span> with over 7 years of experience in{' '}
+        <span className="highlight">Software Engineer</span> with over 6 years of experience in{' '}
         <span className="highlight">Full Stack Web</span> and{' '}
         <span className="highlight">Extended Reality (VR,MR)</span>. 1 year of leading engineering
         teams at a major tech company, delivering reliable software solutions while executing
