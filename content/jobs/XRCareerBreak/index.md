@@ -1,6 +1,6 @@
 ---
 date: '2025-03-01'
-title: 'Independent XR Developer'
+title: 'Independent Software Developer'
 company: 'Bauhaus-Universität Weimar'
 companyNameInTab: 'BU Weimar'
 location: 'Leipzig, Germany'

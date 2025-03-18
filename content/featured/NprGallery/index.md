@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 type: 'Social VR Project'
 title: 'NPR Gallery'
 cover: './cover.png'

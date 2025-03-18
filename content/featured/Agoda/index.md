@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '1'
 title: 'Agoda Web Platform'
 type: '★ Website ★'
 cover: './cover.png'
