@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '6'
 title: 'VR Bomb (2014)'
 type: 'Virtual Reality Simulator'
 cover: './cover.png'

@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '3'
 title: 'Co-Located See-Through Transition'
 type: 'Mixed Reality Project'
 cover: './cover.png'

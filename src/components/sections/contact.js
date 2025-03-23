@@ -68,11 +68,11 @@ const Contact = () => {
         my inbox is always welcome :)
       </p>
 
-      <a className="email-link" href="/resume.pdf">
-        View Resume
-      </a>
       <a className="email-link" href={`mailto:${email}`}>
         Say Hello
+      </a>
+      <a className="email-link" href="/resume.pdf">
+        View Resume
       </a>
     </StyledContactSection>
   );
