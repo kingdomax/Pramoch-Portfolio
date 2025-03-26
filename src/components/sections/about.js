@@ -152,6 +152,12 @@ const About = () => {
             </p>
 
             <p>
+              My software development journey began back in 2014 when I built my first project—a VR
+              military training simulator. That early experience ignited my passion for building
+              meaningful projects, and I've enjoyed developing software ever since.
+            </p>
+
+            <p>
               I spent several years as a seasoned engineer at{' '}
               <a href="https://agoda.com">a large tech company</a>, developing, testing, and
               maintaining a web application that handled over 10 million requests a day. During that
@@ -164,12 +170,8 @@ const About = () => {
               <a href="https://www.uni-weimar.de/en/media/chairs/computer-science-department/vr">
                 master’s degree
               </a>{' '}
-              in Computer Science in Germany, focusing on Extended Reality (XR). XR really excites
-              me because it brings me closer to the people who use my work, I love seeing their
-              reactions and getting direct feedback. Actually, my first dive into XR was way back in
-              2014, when I built a VR military training simulator for my bachelor thesis. Ever since
-              then, I’ve been fascinated to explore new tech even more, and I can’t wait to see
-              where it takes me next.
+              in Computer Science in Germany, focusing on extended reality, data visualization and
+              software development.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

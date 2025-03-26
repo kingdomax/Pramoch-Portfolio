@@ -10,4 +10,6 @@ tech:
   - Elasticsearch
 ---
 
-Extended personalization to argument search engine framework including filtering by publication year and a user feedback system, enhancing the platform's usability and interactivity. Also conducted a proof-of-concept migration from Lucene to Elasticsearch for improved search capabilities.
+Extended personalization to argument search engine framework including filtering by publication year and a user feedback system, enhancing the platform's usability and interactivity.
+
+Also conducted a proof-of-concept migration from Lucene to Elasticsearch for improved search capabilities.

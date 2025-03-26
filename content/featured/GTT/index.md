@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '7'
 title: 'Getting There Together'
 type: 'Multi-User VR Project'
 cover: './cover.png'

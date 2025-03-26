@@ -1,5 +1,5 @@
 ---
-date: '99'
+date: '1'
 title: 'Photovoltaic System Calculator'
 github: 'https://github.com/kingdomax/photovoltaic-system-calculation'
 external: ''
@@ -13,7 +13,7 @@ tech:
   - Sass
   - Bootstrap
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 ​A web-based tool designed to assess the feasibility and efficiency of photovoltaic systems, tailored to specific manufacturers and products, integrating current weather data and local conditions to provide accurate performance estimates.
