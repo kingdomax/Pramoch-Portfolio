@@ -68,10 +68,11 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        <span className="highlight">Software Engineer</span> with over 5 years of experience in{' '}
+        <span className="highlight">Software Engineer</span> with 6+ years of experience in{' '}
         <span className="highlight">Full Stack Web</span> and{' '}
-        <span className="highlight">Extended Reality (VR,AR)</span>. Experienced in leading
-        engineering teams through complex technology migrations and architectural transformations.
+        <span className="highlight">Extended Reality (VR,AR)</span>, recently completed a Master’s{' '}
+        degree in Computer Science. Experienced in leading engineering teams through complex{' '}
+        technology migrations and architectural transformations.
       </p>
     </>
   );

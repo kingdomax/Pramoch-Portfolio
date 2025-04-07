@@ -6,7 +6,7 @@ external: ''
 ios: ''
 android: ''
 tech:
-  - .NET Core
+  - ASP.NET Core
   - PostgreSQL
   - JavaScript
 company: ''

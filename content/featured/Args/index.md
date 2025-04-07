@@ -3,9 +3,10 @@ date: '2'
 title: 'Argument Search Engine'
 type: 'Website'
 cover: './cover.png'
-external: 'https://www.args.me'
+external: 'https://www.args.me/search.html?query=same+sex+marriage+should+be+legal'
 tech:
   - Java
+  - Spring Boot
   - Apache Lucene
   - Elasticsearch
 ---

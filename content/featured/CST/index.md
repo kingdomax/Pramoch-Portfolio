@@ -1,12 +1,13 @@
 ---
 date: '4'
-title: 'Co-Located See-Through Transition'
+title: 'Co-Located Onboarding System'
 type: 'Mixed Reality Project'
 cover: './cover.png'
 youtube: 'https://youtu.be/xUA0cI-iyPc'
 external: 'https://www.behance.net/gallery/220896523/Co-Located-See-Through-Transition'
 # github: 'https://github.com/kingdomax/collocated-see-through'
 tech:
+  - C#
   - Unity Netcode
   - Spatial Anchor API
   - MRUK

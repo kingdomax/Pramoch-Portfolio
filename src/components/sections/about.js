@@ -127,10 +127,11 @@ const About = () => {
 
   const skills = [
     'C#',
-    'JavaScript/TypeScript',
-    '.NET',
+    'TypeScript/JavaScript',
+    'ASP.NET',
     'React',
-    'SQL',
+    'PostgreSQL',
+    'Docker',
     'Unity',
     'Unity Netcode',
     'Photon Engine',
@@ -170,8 +171,8 @@ const About = () => {
               <a href="https://www.uni-weimar.de/en/media/chairs/computer-science-department/vr">
                 master’s degree
               </a>{' '}
-              in Computer Science in Germany, focusing on extended reality, data visualization and
-              software development.
+              in Computer Science in Germany, focusing on software development, data visualization
+              and extended reality.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

@@ -1,7 +1,7 @@
 ---
 date: '5'
 type: 'Social VR Project'
-title: 'NPR Gallery'
+title: 'Non-Photorealistic Gallery'
 cover: './cover.png'
 github: 'https://github.com/kingdomax/npr-gallery'
 external: 'https://www.behance.net/gallery/220854821/NPR-Gallery'

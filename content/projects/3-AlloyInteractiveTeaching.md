@@ -7,7 +7,6 @@ ios: ''
 android: ''
 tech:
   - Java
-  - Gradle
   - AlloyAnalyzer
 company: ''
 showInProjects: true
