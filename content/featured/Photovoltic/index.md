@@ -1,6 +1,6 @@
 ---
 date: '3'
-title: 'Photovoltaic System Calculator'
+title: 'Photovoltaic Calculation Platform'
 type: 'Website'
 cover: './cover.png'
 youtube: 'https://youtu.be/tKLgZwmIMao'
