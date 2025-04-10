@@ -1,10 +1,10 @@
 ---
-date: '6'
-title: 'VR Bomb (2014)'
+date: '8'
+title: 'VR Bomb'
 type: 'Virtual Reality Simulator'
 cover: './cover.png'
 youtube: 'https://www.youtube.com/watch?v=pr76RaMlCQM'
-github: 'https://github.com/kingdomax/vr-bomb'
+#github: 'https://github.com/kingdomax/vr-bomb'
 external: 'https://www.behance.net/gallery/220835485/VR-Bomb'
 tech:
   - Unity

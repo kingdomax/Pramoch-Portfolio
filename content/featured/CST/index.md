@@ -1,11 +1,11 @@
 ---
-date: '4'
+date: '5'
 title: 'Co-Located Onboarding System'
 type: 'Mixed Reality Project'
 cover: './cover.png'
 youtube: 'https://youtu.be/xUA0cI-iyPc'
 external: 'https://www.behance.net/gallery/220896523/Co-Located-See-Through-Transition'
-# github: 'https://github.com/kingdomax/collocated-see-through'
+github: 'https://github.com/kingdomax/collocated-onboarding-system'
 tech:
   - C#
   - Unity Netcode

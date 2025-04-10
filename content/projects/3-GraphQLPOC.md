@@ -1,5 +1,5 @@
 ---
-date: '94'
+date: '97'
 title: 'GraphQL POC'
 github: 'https://github.com/kingdomax/graphql-poc'
 external: ''

@@ -1,5 +1,5 @@
 ---
-date: '89'
+date: '94'
 title: 'HIL System'
 github: 'https://github.com/kingdomax/embedded-system'
 external: ''
