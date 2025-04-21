@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import styled from 'styled-components';
 import { Layout, Hero, About, Jobs, Featured, Contact, Projects } from '@components';
 
-// console.log('build v. 13-10-2025');
+// console.log('build v. 20-04-2025');
 
 const StyledMainContainer = styled.main`
   counter-reset: section;
