@@ -14,6 +14,7 @@ tech:
   - Sass
   - Bootstrap
   - Hangfire
+  - xUnit
 ---
 
 I developed a comprehensive web-based photovoltaic calculation system to streamline solar energy project planning. The application integrates [real-time solar irradiance](https://joint-research-centre.ec.europa.eu/photovoltaic-geographical-information-system-pvgis_en) and [weather data](https://openweathermap.org/api), enabling precise calculations and visualizations through interactive maps and dynamic diagrams.

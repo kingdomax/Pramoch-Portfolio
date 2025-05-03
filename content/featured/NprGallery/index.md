@@ -1,5 +1,5 @@
 ---
-date: '6'
+date: '7'
 type: 'Social VR Project'
 title: 'Non-Photorealistic Gallery'
 cover: './cover.png'

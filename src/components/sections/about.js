@@ -126,12 +126,14 @@ const About = () => {
   }, []);
 
   const skills = [
-    'C#',
-    'TypeScript/JavaScript',
-    'ASP.NET',
     'React',
+    'TypeScript/JavaScript',
+    'C#',
+    'ASP.NET',
     'PostgreSQL',
     'Docker',
+    'Node.js',
+    'HTML/CSS',
     'Unity',
     'Unity Netcode',
     'Photon Engine',

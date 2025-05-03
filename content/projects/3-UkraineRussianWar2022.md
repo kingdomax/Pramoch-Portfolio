@@ -1,13 +1,13 @@
 ---
-date: '98'
+date: '97'
 title: 'Ukraine Russian War 2022'
 github: 'https://github.com/kingdomax/ukrain-russian-war-2022'
 external: ''
 ios: ''
 android: ''
 tech:
-  - JavaScript
   - D3.js
+  - JavaScript
   - Snowpack
 company: ''
 showInProjects: true

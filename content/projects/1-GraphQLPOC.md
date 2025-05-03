@@ -1,14 +1,14 @@
 ---
-date: '97'
+date: '99'
 title: 'GraphQL POC'
 github: 'https://github.com/kingdomax/graphql-poc'
 external: ''
 ios: ''
 android: ''
 tech:
-  - Apollo GraphQL
-  - Express.js
   - Node.js
+  - Express.js
+  - Apollo GraphQL
 company: 'Agoda'
 showInProjects: true
 ---

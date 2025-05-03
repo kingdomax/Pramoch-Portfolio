@@ -1,5 +1,5 @@
 ---
-date: '5'
+date: '6'
 title: 'Co-Located Onboarding System'
 type: 'Mixed Reality Project'
 cover: './cover.png'
